@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\bin\Debug\Classses.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\bin\Debug\Classses.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\bin\Debug\Classses.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\obj\Debug\Classses.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\obj\Debug\Classses.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\obj\Debug\Classses.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Classses\obj\Debug\Classses.pdb

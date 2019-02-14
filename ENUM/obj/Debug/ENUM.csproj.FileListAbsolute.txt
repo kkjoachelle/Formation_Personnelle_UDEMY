@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\bin\Debug\ENUM.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\bin\Debug\ENUM.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\bin\Debug\ENUM.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\obj\Debug\ENUM.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\obj\Debug\ENUM.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\ENUM\obj\Debug\ENUM.pdb

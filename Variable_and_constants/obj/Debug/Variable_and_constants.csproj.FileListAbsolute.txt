@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\bin\Debug\Variable_and_constants.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\bin\Debug\Variable_and_constants.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\bin\Debug\Variable_and_constants.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\obj\Debug\Variable_and_constants.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\obj\Debug\Variable_and_constants.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\obj\Debug\Variable_and_constants.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Variable_and_constants\obj\Debug\Variable_and_constants.pdb

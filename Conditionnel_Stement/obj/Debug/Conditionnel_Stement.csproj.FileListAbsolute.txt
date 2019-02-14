@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\bin\Debug\Conditionnel_Stement.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\bin\Debug\Conditionnel_Stement.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\bin\Debug\Conditionnel_Stement.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\obj\Debug\Conditionnel_Stement.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\obj\Debug\Conditionnel_Stement.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\obj\Debug\Conditionnel_Stement.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Conditionnel_Stement\obj\Debug\Conditionnel_Stement.pdb

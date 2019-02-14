@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\bin\Debug\Formation_Personnelle_UDEMY.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\bin\Debug\Formation_Personnelle_UDEMY.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\bin\Debug\Formation_Personnelle_UDEMY.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\obj\Debug\Formation_Personnelle_UDEMY.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\obj\Debug\Formation_Personnelle_UDEMY.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\obj\Debug\Formation_Personnelle_UDEMY.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Formation_Personnelle_UDEMY\obj\Debug\Formation_Personnelle_UDEMY.pdb

@@ -1,0 +1,6 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Type_ conversion\bin\Debug\Type_ conversion.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Type_ conversion\bin\Debug\Type_ conversion.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Type_ conversion\bin\Debug\Type_ conversion.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Type_ conversion\obj\Debug\Type_ conversion.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Type_ conversion\obj\Debug\Type_ conversion.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Type_ conversion\obj\Debug\Type_ conversion.pdb

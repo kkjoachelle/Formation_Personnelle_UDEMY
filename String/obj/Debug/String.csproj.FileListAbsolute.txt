@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\bin\Debug\String.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\bin\Debug\String.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\bin\Debug\String.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\obj\Debug\String.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\String\obj\Debug\String.pdb

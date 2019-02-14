@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\bin\Debug\Reference_Type _and_Value Type.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\bin\Debug\Reference_Type _and_Value Type.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\bin\Debug\Reference_Type _and_Value Type.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\obj\Debug\Reference_Type _and_Value Type.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\obj\Debug\Reference_Type _and_Value Type.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\obj\Debug\Reference_Type _and_Value Type.exe
+C:\Users\KOFFI\source\repos\Formation_Personnelle_UDEMY\Reference_Type _and_Value Type\obj\Debug\Reference_Type _and_Value Type.pdb
